@@ -1,0 +1,79 @@
+﻿body {
+    background-color: #006465;
+}
+
+.nav-enlace {
+    display: inline-block;
+    background: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+    .nav-enlace:hover {
+        background: rosybrown;
+    }
+
+nav {
+    background: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-boton {
+    background: salmon;
+    color: #fff;
+    padding: 10px 0;
+    border: 2px solid #fff;
+    display: none;
+}
+
+.columna {
+    background: transparent;
+    color: black;
+    padding: 20px;
+    width: 23%;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.padre {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    /* 5px rounded corners */
+}
+
+
+/* Add rounded corners to the top left and the top right corner of the image */
+
+img {
+    border-radius: 5px 5px 0 0;
+}
+
+@media (max-width: 500px) {
+    nav {
+        background: black;
+        flex-direction: column;
+    }
+
+    .nav-enlace {
+        margin: 10px 0;
+    }
+
+    .nav-boton {
+        display: inline-block;
+    }
+
+    .desaparece {
+        display: none;
+    }
+}
