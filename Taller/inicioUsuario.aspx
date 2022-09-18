@@ -22,7 +22,12 @@
             </div>
         </div>
         <div class="columna">
-            Priscilla
+            <div class="card">
+                <img src="img/Canada.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Priscilla Rivera</b></h4>
+                    <p>Canadá</p>
+                </div>
         </div>
         <div class="columna">
             Victor
