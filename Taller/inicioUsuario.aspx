@@ -30,7 +30,12 @@
                 </div>
         </div>
         <div class="columna">
-            Victor
+            <div class="card">
+                <img src="img/italia.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Victor Salgado</b></h4>
+                    <p>Italia</p>
+                </div>
         </div>
         <div class="columna">
             Alixon
