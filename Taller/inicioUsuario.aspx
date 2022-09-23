@@ -28,7 +28,8 @@
                     <h4><b>Priscilla Rivera</b></h4>
                     <p>Canadá</p>
                 </div>
-        </div>
+              </div>
+            </div>
         <div class="columna">
             <div class="card">
                 <img src="img/italia.jpg" alt="Avatar" style="width:100%">
@@ -36,6 +37,7 @@
                     <h4><b>Victor Salgado</b></h4>
                     <p>Italia</p>
                 </div>
+             </div>
         </div>
         <div class="columna">
             Alixon

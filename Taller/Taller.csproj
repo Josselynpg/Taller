@@ -82,6 +82,7 @@
     <Content Include="css\MiestiloInicio.css" />
     <Content Include="css\style.css" />
     <Content Include="img\Canada.jpg" />
+    <Content Include="img\italia.jpg" />
     <Content Include="img\tokyo.jpg" />
     <Content Include="index.aspx" />
     <Content Include="inicioUsuario.aspx" />
