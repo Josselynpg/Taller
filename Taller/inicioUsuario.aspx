@@ -40,6 +40,15 @@
              </div>
         </div>
         <div class="columna">
+             <div class="card">
+                <img src="img/pueden-los-virus-curar-el-cancer-768x506.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Victor Salgado Martinez </b></h4>
+                    <p>Prueba</p>
+                </div>
+             </div>
+            
+            
             Alixon
         </div>
         <div class="columna">
