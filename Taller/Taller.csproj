@@ -83,7 +83,6 @@
     <Content Include="css\style.css" />
     <Content Include="img\Canada.jpg" />
     <Content Include="img\italia.jpg" />
-    <Content Include="img\pueden-los-virus-curar-el-cancer-768x506.jpg" />
     <Content Include="img\tokyo.jpg" />
     <Content Include="index.aspx" />
     <Content Include="inicioUsuario.aspx" />
