@@ -40,6 +40,8 @@
              </div>
         </div>
         <div class="columna">
+           
+       
             Alixon
         </div>
         <div class="columna">
