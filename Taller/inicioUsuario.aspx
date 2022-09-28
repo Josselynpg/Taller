@@ -50,9 +50,15 @@
         <div class="columna">
             Sebastián
         </div>
-         <div class="columna">
-            Gadiel
-        </div>
+          <div class="columna">
+            <div class="card">
+                <img src="img/Canada.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Gadiel Fernandez</b></h4>
+                    <p>US</p>
+                </div>
+              </div>
+            </div>
          <div class="columna">
             Luis
         </div>
