@@ -53,7 +53,7 @@
         </div>
           <div class="columna">
             <div class="card">
-                <img src="img/urss.jpg" alt="Avatar" style="width:100%">
+                <img src="img/urss.jpg" alt="Avatar" style="width:30%">
                 <div class="container">
                     <h4><b>Sebastian Granados</b></h4>
                     <p>URSS</p>
