@@ -49,7 +49,13 @@
             </div>
         </div>
         <div class="columna">
-            Thalía
+            <div class="card">
+                <img src="img/Paris.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Thalia</b></h4>
+                    <p>Paris</p>
+                </div>
+            </div>
         </div>
           <div class="columna">
             <div class="card">
