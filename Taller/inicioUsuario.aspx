@@ -47,8 +47,14 @@
         <div class="columna">
             Thalía
         </div>
-        <div class="columna">
-            Sebastián
+          <div class="columna">
+            <div class="card">
+                <img src="img/urss.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Sebastian Granados</b></h4>
+                    <p>URSS</p>
+                </div>
+            </div>
         </div>
          <div class="columna">
             Gadiel
