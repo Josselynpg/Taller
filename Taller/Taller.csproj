@@ -84,6 +84,7 @@
     <Content Include="img\Canada.jpg" />
     <Content Include="img\italia.jpg" />
     <Content Include="img\tokyo.jpg" />
+    <Content Include="img\urss.jpeg" />
     <Content Include="index.aspx" />
     <Content Include="inicioUsuario.aspx" />
     <Content Include="registro.aspx" />
