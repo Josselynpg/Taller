@@ -76,6 +76,15 @@
               </div>
             </div>
          <div class="columna">
+            <div class="card">
+                <img src="img/urss.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>Marlon Acuña</b></h4>
+                    <p>US</p>
+                </div>
+              </div>
+            </div>
+         <div class="columna">
             Luis
         </div>
          <div class="columna">
@@ -84,9 +93,7 @@
          <div class="columna">
             Mariam
         </div>
-         <div class="columna">
-            Marlon
-        </div>
+         
          <div class="columna">
             Luis
         </div>
